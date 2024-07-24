@@ -1,13 +1,3 @@
-<head>
-
-  <style>
-      a {
-          padding-right: 10px;
-      }
-  </style>
-  
-</head>
-
 <h1 align="center">Hey , I'm Ayan Ali Khan</h1>
 <h3 align="center">A tech enthusiast focused on web development</h3>
 <img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM283N3p4ZjlhNnVibjdsbmFmem0wdjJnbmVkM2Z5cXF2Ym0wajFyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp">  
